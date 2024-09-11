@@ -1,39 +1,38 @@
-# Hi, I'm Krishna 👋
+# Hi, I'm Krishna Viswakarma 👋
 
-### Laravel Developer | Backend Enthusiast | Open Source Contributor
+### Laravel Developer | Full Stack Developer | Open Source Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building scalable web applications with Laravel and contributing to open source projects.
+Welcome to my GitHub profile! I'm a passionate Laravel developer with expertise in various web development technologies.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Html5, Css3, JavaScript, Bootstrap5, Jquery, PHP, SQL
-- **Frameworks:** Laravel,
-- **Databases:** MySQL,
-- **Tools:** Git, Composer, VSCode
-- **Other Skills:** REST APIs, Unit Testing, MVC Architecture
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript, React.js
+- **Backend:** PHP, Laravel
+- **Databases:** MySQL
+- **Other Tools:** Git, Composer, Docker, VSCode
 
 ---
 
 ### 🚀 Projects
-Here are some of the projects I've been working on:
+Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/krishjna/project1) - A scalable Laravel application for managing tasks.
-- [Project 2](https://github.com/krishjna/project2) - REST API built with Laravel and Lumen for a mobile app.
+- [Project 1](https://github.com/krishna-viswakarma/project1) - A modern web application built with Laravel.
+- [Project 2](https://github.com/krishna-viswakarma/project2) - Full-stack project with React.js and Laravel backend.
 
 ---
 
 ### 🌱 What I’m learning
-I’m currently learning about **REACT.JS**.
+I'm currently improving my skills in **React.js** and learning about **Microservices** and **DevOps** practices.
 
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/krishjna/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/krishna-viswakarma/)
 - Twitter: [@yourTwitter](https://twitter.com/yourTwitter)
 - Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
 ### ⚡ Fun Fact
-I love learning about new technologies and frameworks, and when I'm not coding, you’ll find me reading tech blogs or playing chess!
+I enjoy coding, contributing to open source, and when I’m not programming, I love reading tech blogs and exploring new technologies!
