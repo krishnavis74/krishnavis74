@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/your-username/portfolio-images/main/laravel-developer-banner.png" alt="Laravel Developer Banner">
+
 # Hi, I'm Krishna Viswakarma 👋
 
 ### Laravel Developer | Full Stack Developer | Open Source Enthusiast
