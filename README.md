@@ -35,7 +35,7 @@ I'm currently improving my skills in **React.js** and learning about **React Nat
 ### 📫 How to reach me:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/krishna-viswakarma/)
 - Twitter: [@yourTwitter](https://twitter.com/yourTwitter)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: krishnavis74@gmail.com
 
 ---
 
