@@ -1,4 +1,4 @@
-![Laravel Developer Banner](https://www.softgridcomputers.com/blog/wp-content/uploads/2022/01/Image_2.png)
+![Laravel Developer Banner](https://www.w3care.com/images/uploads/testimonials/Laravel.webp)
 
 
 # Hi, I'm Krishna Viswakarma 👋
