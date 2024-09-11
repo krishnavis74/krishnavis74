@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer with expertise 
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript, React.js
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, Jquery, React.js
 - **Backend:** PHP, Laravel
 - **Databases:** MySQL
-- **Other Tools:** Git, Composer, Docker, VSCode
+- **Other Tools:** Git, Composer, VSCode
 
 ---
 
@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 ---
 
 ### 🌱 What I’m learning
-I'm currently improving my skills in **React.js** and learning about **Microservices** and **DevOps** practices.
+I'm currently improving my skills in **React.js** and learning about **React Native** practices.
 
 ---
 
