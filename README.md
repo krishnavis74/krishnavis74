@@ -1,4 +1,4 @@
-# Hi, I'm Krishjna 👋
+# Hi, I'm Krishna 👋
 
 ### Laravel Developer | Backend Enthusiast | Open Source Contributor
 
@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** PHP, JavaScript, SQL
-- **Frameworks:** Laravel, Lumen
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Composer, Docker, VSCode
+- **Languages:** Html5, Css3, JavaScript, Bootstrap5, Jquery, PHP, SQL
+- **Frameworks:** Laravel,
+- **Databases:** MySQL,
+- **Tools:** Git, Composer, VSCode
 - **Other Skills:** REST APIs, Unit Testing, MVC Architecture
 
 ---
@@ -24,7 +24,7 @@ Here are some of the projects I've been working on:
 ---
 
 ### 🌱 What I’m learning
-I’m currently learning about **API Development**, **Microservices**, and improving my knowledge in **Docker** and **DevOps**.
+I’m currently learning about **REACT.JS**.
 
 ---
 
