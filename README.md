@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/your-username/portfolio-images/main/laravel-developer-banner.png" alt="Laravel Developer Banner">
+![Laravel Developer Banner](https://raw.githubusercontent.com/your-username/portfolio-images/main/laravel-developer-banner.png)
+
 
 # Hi, I'm Krishna Viswakarma 👋
 
