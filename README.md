@@ -1,4 +1,4 @@
-![Laravel Developer Banner](https://raw.githubusercontent.com/your-username/portfolio-images/main/laravel-developer-banner.png)
+![Laravel Developer Banner](https://www.softgridcomputers.com/blog/wp-content/uploads/2022/01/Image_2.png)
 
 
 # Hi, I'm Krishna Viswakarma 👋
