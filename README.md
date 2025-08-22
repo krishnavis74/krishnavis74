@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 ---
 
 ### 🌱 What I’m learning
-I'm currently improving my skills in **React.js** and learning about **React Native** .
+I'm currently improving my skills in **React.js**.
 
 ---
 
